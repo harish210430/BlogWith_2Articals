@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 5px;
+}
+body{
+    background-color: aqua;
+}
+
+header{
+    background-color: rgb(218, 148, 218);
+    text-align: center;
+}
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 650;
+}
+.blog{
+    width: 650px;
+    margin: 0 auto;
+}
+
+#same{
+    font-size: large;
+    font-family: sans-serif;
+}
+footer{
+    background-color: rgb(179, 102, 251);
+    text-align: center;
+    
+}
+h3{
+    padding: 2px;
+    margin: 2px;
+}
+article a{
+    text-decoration: none;
+}
+.time{
+    color: blue;
+    font-weight: bold;
+}
